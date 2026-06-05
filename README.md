@@ -1,7 +1,7 @@
 # PICG-VAE: Physics-Informed Circumferential Graph VAE
 
 EGT anomaly warning in gas turbines is easily affected by operating-condition variations, which makes healthy transients difficult to distinguish from fault-induced deviations. To address this problem, this paper proposes a physics-informed circumferential graph VAE (PICG-VAE). The EGT anomaly detection task is formulated as probabilistic prediction of the circumferential exhaust temperature field conditioned on operating histories. PICG-VAE uses a causal temporal convolution encoder for operating dynamics, a circumferential graph representation for EGT spatial dependence, and a variational decoder for sensor-wise predictive mean and uncertainties. Two physics-informed losses are further introduced to constrain the learned healthy EGT distribution. Minimal reproduction package for **Fig. 4-3** (predictive uncertainty and standardized residual detection mechanism).
-
+## The file extraction password will be actively updated after the paper is accepted.
 ## Quick Start
 
 ```bash
